@@ -1,1 +1,1 @@
-# my-projects-in-javascript
+# simple-javascript-project
